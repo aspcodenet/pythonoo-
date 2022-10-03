@@ -42,6 +42,7 @@ class Student:
         # SKAPA ALLA PROPERTIES/Egenskaper/Variabler
         # som hör till ritningen
         self.__Namn = namn
+        
         self.__Age = 0
         self.SetAge(age)
         self.__Antal = 0
